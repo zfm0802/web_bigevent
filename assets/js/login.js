@@ -65,7 +65,7 @@ $(function() {
                 // 将登录成功的到的 token 字符串, 保存到 localStorage 中
                 localStorage.setItem('token', res.token)
                 // 跳转到后台主页
-                location.href = '/前端与后台交互/13-node.js第七条-11.25/code/index.html'
+                location.href = '/前端与后台交互/13-node.js第七天-11.25/code/index.html'
             }
         })
     })
